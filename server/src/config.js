@@ -1,0 +1,1 @@
+exports.SERVER_DOMAIN = "https://bid-my-ride-server.onrender.com";
