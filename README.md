@@ -1,17 +1,10 @@
 # BidMyRide - Car Bidding Platform
 
 ## CSCI-5709 (Advance Topics in Web Development)
-## Group_2
-
--   _Date Created_: 31 March, 2023
--   _Last Modification Date_: 31 March, 2023
 -   _BID MY RIDE deployed Link of Netlify_: https://thunderous-treacle-c9f408.netlify.app
--   _Git URL for Group2_: https://git.cs.dal.ca/snpatel/csci-5709-grp-02
 -   _Server Link of Render_: https://bid-my-ride-server.onrender.com
 
 ## Authors:
-
-#
 
 -   Dixit Ghodadara - ( B00913652 )
 -   Shivam Patel - ( B00917152 )
@@ -19,6 +12,20 @@
 -   Utsav Italiya - ( B00935447 )
 -   Rutvik Shah - ( B00934537 )
 -   Yash Kalwani - ( B00939351 )
+
+#
+
+![Picture1](https://user-images.githubusercontent.com/51261247/234364148-eabcf606-b9b3-4248-ac06-45d554de114f.png)
+
+#
+
+![Picture2](https://user-images.githubusercontent.com/51261247/234364173-180706fa-e8d2-43a2-9638-da42921f1471.png)
+
+#
+
+![Picture3](https://user-images.githubusercontent.com/51261247/234364276-ccc448f0-0880-4fcc-ae6f-d747d8e56056.png)
+
+
 
 # Admin User Credentials
 
