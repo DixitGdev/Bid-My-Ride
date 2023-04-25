@@ -1,5 +1,6 @@
-# CSCI-5709 (Advance Topics in Web Development)
+# BidMyRide - Car Bidding Platform
 
+## CSCI-5709 (Advance Topics in Web Development)
 ## Group_2
 
 -   _Date Created_: 31 March, 2023
@@ -12,8 +13,8 @@
 
 #
 
--   Shivam Patel - ( B00917152 )
 -   Dixit Ghodadara - ( B00913652 )
+-   Shivam Patel - ( B00917152 )
 -   Shvet Kantibhai Anaghan - ( B00917946 )
 -   Utsav Italiya - ( B00935447 )
 -   Rutvik Shah - ( B00934537 )
@@ -136,6 +137,13 @@ We used an MVC architecture. Controllers, Models, and Routes are the three main 
 
 ## Technologies & Libraries Used:
 
+## API
+* ### [News API](https://newsapi.org/)
+
+## Payment 
+* ### [Stripe](https://www.npmjs.com/package/@stripe/react-stripe-js)
+
+#
 -   [React](https://reactjs.org/)
 -   [Node](https://nodejs.org/en/)
 -   [npm](https://www.npmjs.com/)
